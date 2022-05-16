@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:a="http://langdale.com.au/2005/Message#" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<head>
+<title>Profile Documentation</title>
+<style type="text/css">
+/* typography: fonts */
+body { font-family: arial, sans-serif; }
+
+.name, .type, .cardinality, .superclass, .xsdtype, .namespace { font-family: courier, monospace; }
+
+
+/* typography: emphasis */
+h1 { color: white; background: gray;}
+
+h2, h3 { color: gray; text-decoration: none;}
+
+h2.abstract, h2.enumerated, h2.domain {font-style: italic } 
+
+p.note { background-color: #ddd }
+
+p.declaration { color: gray }
+
+:link { color: purple; }
+
+.xsdtype { color: black; font-weight: bold; }
+
+.namespace { color: black }
+
+.package { font-size: x-large; color: gray }
+
+
+/* borders */
+div.group {
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+	
+}
+
+th, td {
+	border-top-style : solid;
+	border-top-width : 1px;
+	border-color: gray;
+ }
+
+
+/* spacing and alignment */
+body {padding: 5px; }
+
+h1 { padding: 5px;}
+
+div.group {
+	margin-top: 10px;
+	padding: 5px;
+	position: relative;
+}
+th, td {
+	text-align : left;
+	vertical-align : top;
+}
+th, td.type { width: 15em; overflow: visible; }
+
+p.cardinality { width: 4em; }
+
+p.package { position: absolute; right: 10px; top: 0px}				
+</style>
+</head>
+<body>
+<h1>Profile Documentation</h1>
+<p/>
+<p class="declaration">
+					Profile namespace:
+					<span class="namespace">http://iec.ch/TC57/2007/profile#</span>
+</p>
+<h1>Concrete Classes</h1>
+<h1>Abstract Classes</h1>
+<div id="BasicIntervalSchedule" class="group">
+<a href="#BasicIntervalSchedule">
+<h2 class="abstract">BasicIntervalSchedule</h2>
+</a>
+<p class="package">IES_Projects</p>
+<p class="comment">Schedule of values at points in time.</p>
+<h3>Inherited Members</h3>
+<table/>
+</div>
+<div id="ConductingEquipment" class="group">
+<a href="#ConductingEquipment">
+<h2 class="abstract">ConductingEquipment</h2>
+</a>
+<p class="package">IES_Projects</p>
+<p class="comment">The parts of the power system that are designed to carry current or that are conductively connected through terminals.</p>
+<h3>Inherited Members</h3>
+<table/>
+<table/>
+<table/>
+</div>
+<div id="Curve" class="group">
+<a href="#Curve">
+<h2 class="abstract">Curve</h2>
+</a>
+<p class="package">IES_Projects</p>
+<p class="comment">A multi-purpose curve or functional relationship between an independent variable (X-axis) and dependent (Y-axis) variables.</p>
+<h3>Inherited Members</h3>
+<table/>
+</div>
+<div id="CurveData" class="group">
+<a href="#CurveData">
+<h2 class="abstract">CurveData</h2>
+</a>
+<p class="package">Core</p>
+<p class="comment">Multi-purpose data points for defining a curve.  The use of this generic class is discouraged if a more specific class  can be used to specify the x and y axis values along with their specific data types.</p>
+<h3>Inherited Members</h3>
+<table/>
+</div>
+<div id="Disconnector" class="group">
+<a href="#Disconnector">
+<h2 class="abstract">Disconnector</h2>
+</a>
+<p class="package">Wires</p>
+<p class="comment">A manually operated or motor operated mechanical switching device used for changing the connections in a circuit, or for isolating a circuit or equipment from a source of power. It is required to open or close circuits when negligible current is broken or made.</p>
+<h3>Inherited Members</h3>
+<table/>
+<table/>
+<table/>
+<table/>
+<table/>
+</div>
+<div id="Equipment" class="group">
+<a href="#Equipment">
+<h2 class="abstract">Equipment</h2>
+</a>
+<p class="package">IES_Projects</p>
+<p class="comment">The parts of a power system that are physical devices, electronic or mechanical.</p>
+<h3>Inherited Members</h3>
+<table/>
+<table/>
+</div>
+<div id="IdentifiedObject" class="group">
+<a href="#IdentifiedObject">
+<h2 class="abstract">IdentifiedObject</h2>
+</a>
+<p class="package">Core</p>
+<p class="comment">This is a root class to provide common identification for all classes needing identification and naming attributes.</p>
+</div>
+<div id="IrregularIntervalSchedule" class="group">
+<a href="#IrregularIntervalSchedule">
+<h2 class="abstract">IrregularIntervalSchedule</h2>
+</a>
+<p class="package">IES_Projects</p>
+<p class="comment">The schedule has time points where the time between them varies.</p>
+<h3>Inherited Members</h3>
+<table/>
+<table/>
+</div>
+<div id="IrregularTimePoint" class="group">
+<a href="#IrregularTimePoint">
+<h2 class="abstract">IrregularTimePoint</h2>
+</a>
+<p class="package">Core</p>
+<p class="comment">TimePoints for a schedule where the time between the points varies.</p>
+<h3>Inherited Members</h3>
+<table/>
+</div>
+<div id="OutageSchedule" class="group">
+<a href="#OutageSchedule">
+<h2 class="abstract">OutageSchedule</h2>
+</a>
+<p class="package">IES_Projects</p>
+<p class="comment">The period of time that a piece of equipment is out of service, for example, for maintenance or testing; including the equipment's active power rating while under maintenance. The X-axis represents absolute time and the Y-axis represents the equipment's available rating while out of service.</p>
+<h3>Inherited Members</h3>
+<table/>
+<table/>
+<table/>
+</div>
+<div id="PowerSystemResource" class="group">
+<a href="#PowerSystemResource">
+<h2 class="abstract">PowerSystemResource</h2>
+</a>
+<p class="package">Core</p>
+<p class="comment">A power system resource can be an item of equipment such as a switch, an equipment container containing many individual items of equipment such as a substation, or an organisational entity such as sub-control area. Power system resources can have measurements associated.</p>
+<h3>Inherited Members</h3>
+<table/>
+</div>
+<div id="RegularIntervalSchedule" class="group">
+<a href="#RegularIntervalSchedule">
+<h2 class="abstract">RegularIntervalSchedule</h2>
+</a>
+<p class="package">IES_Projects</p>
+<p class="comment">The schedule has time points where the time between them is constant.</p>
+<h3>Inherited Members</h3>
+<table/>
+<table/>
+</div>
+<div id="RegularTimePoint" class="group">
+<a href="#RegularTimePoint">
+<h2 class="abstract">RegularTimePoint</h2>
+</a>
+<p class="package">Core</p>
+<p class="comment">Time point for a schedule where the time between the consecutive points is constant.</p>
+<h3>Inherited Members</h3>
+<table/>
+</div>
+<div id="Switch" class="group">
+<a href="#Switch">
+<h2 class="abstract">Switch</h2>
+</a>
+<p class="package">Wires</p>
+<p class="comment">A generic device designed to close, or open, or both, one or more electric circuits.</p>
+<h3>Inherited Members</h3>
+<table/>
+<table/>
+<table/>
+<table/>
+</div>
+<h1>Enumerations</h1>
+<h1>Compound Types</h1>
+<h1>Datatypes</h1>
+</body>
+</html>

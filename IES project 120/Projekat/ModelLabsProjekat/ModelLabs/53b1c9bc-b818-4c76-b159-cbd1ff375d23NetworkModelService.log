@@ -1,0 +1,64 @@
+08-Feb-22 3:49:03 PM : Starting Network Model Serivice...
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000800000001).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000800000002).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000100000003).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000100000004).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000300000003).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000300000004).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000400000003).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000400000004).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000500000003).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000500000004).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000600000003).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000600000004).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000700000003).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000700000004).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000800000003).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000800000004).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000100000005).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000100000006).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000300000005).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000300000006).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000400000005).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000400000006).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000500000005).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000500000006).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000600000005).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000600000006).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000700000005).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000700000006).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000800000005).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000800000006).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000100000007).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000100000008).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000300000007).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000300000008).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000400000007).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000400000008).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000500000007).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000500000008).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000600000007).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000600000008).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000700000007).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000700000008).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000800000007).
+08-Feb-22 3:49:03 PM : Inserting entity with GID (0000000800000008).
+08-Feb-22 3:49:04 PM : The communication object, System.ServiceModel.ServiceHost, cannot be used for communication because it is in the Faulted state.
+08-Feb-22 3:49:04 PM : NetworkModelService failed.
+08-Feb-22 3:49:04 PM :    at System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Close()
+   at FTN.Services.NetworkModelService.NetworkModelService.CloseHosts() in C:\Users\User\Desktop\IES project 120\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\NetworkModelService.cs:line 96
+   at FTN.Services.NetworkModelService.NetworkModelService.Dispose() in C:\Users\User\Desktop\IES project 120\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\NetworkModelService.cs:line 34
+   at FTN.Services.NetworkModelService.Program.Main(String[] args) in C:\Users\User\Desktop\IES project 120\Projekat\ModelLabsProjekat\ModelLabs\NetworkModelService\ServiceHost\NetworkModelServiceSelfHost\Program.cs:line 30

@@ -1,0 +1,1404 @@
+07-Feb-22 9:17:43 PM : Starting Network Model Serivice...
+07-Feb-22 9:17:43 PM : The WCF service GenericDataAccess is ready.
+07-Feb-22 9:17:43 PM : Endpoints:
+07-Feb-22 9:17:43 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+07-Feb-22 9:17:43 PM : Connection string: ../NetworkModelData.data
+07-Feb-22 9:17:43 PM : Trace level: Info
+07-Feb-22 9:17:43 PM : The Network Model Service is started.
+07-Feb-22 9:17:43 PM : Press <Enter> to stop the service.
+07-Feb-22 9:17:53 PM : Applying  delta to network model.
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000100000001).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000100000002).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000300000001).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000300000002).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000400000001).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000400000002).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000500000001).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000500000002).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000600000001).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000600000002).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000700000001).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000700000002).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000800000001).
+07-Feb-22 9:17:53 PM : Inserting entity with GID (0000000800000002).
+07-Feb-22 9:17:53 PM : Applying delta to network model successfully finished.
+08-Feb-22 2:41:24 PM : Starting Network Model Serivice...
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000800000001).
+08-Feb-22 2:41:24 PM : Inserting entity with GID (0000000800000002).
+08-Feb-22 2:41:24 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 2:41:24 PM : Endpoints:
+08-Feb-22 2:41:24 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 2:41:24 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 2:41:24 PM : Trace level: Info
+08-Feb-22 2:41:24 PM : The Network Model Service is started.
+08-Feb-22 2:41:24 PM : Press <Enter> to stop the service.
+08-Feb-22 2:41:36 PM : Applying  delta to network model.
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000100000003).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000100000004).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000300000003).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000300000004).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000400000003).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000400000004).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000500000003).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000500000004).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000600000003).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000600000004).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000700000003).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000700000004).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000800000003).
+08-Feb-22 2:41:36 PM : Inserting entity with GID (0000000800000004).
+08-Feb-22 2:41:36 PM : Applying delta to network model successfully finished.
+08-Feb-22 3:32:24 PM : Starting Network Model Serivice...
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000800000001).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000800000002).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000100000003).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000100000004).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000300000003).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000300000004).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000400000003).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000400000004).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000500000003).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000500000004).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000600000003).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000600000004).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000700000003).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000700000004).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000800000003).
+08-Feb-22 3:32:24 PM : Inserting entity with GID (0000000800000004).
+08-Feb-22 3:32:24 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 3:32:24 PM : Endpoints:
+08-Feb-22 3:32:24 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 3:32:24 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 3:32:24 PM : Trace level: Info
+08-Feb-22 3:32:24 PM : The Network Model Service is started.
+08-Feb-22 3:32:24 PM : Press <Enter> to stop the service.
+08-Feb-22 3:32:34 PM : Applying  delta to network model.
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000100000005).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000100000006).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000300000005).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000300000006).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000400000005).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000400000006).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000500000005).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000500000006).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000600000005).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000600000006).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000700000005).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000700000006).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000800000005).
+08-Feb-22 3:32:34 PM : Inserting entity with GID (0000000800000006).
+08-Feb-22 3:32:34 PM : Applying delta to network model successfully finished.
+08-Feb-22 3:32:54 PM : Starting Network Model Serivice...
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000800000001).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000800000002).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000100000003).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000100000004).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000300000003).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000300000004).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000400000003).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000400000004).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000500000003).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000500000004).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000600000003).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000600000004).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000700000003).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000700000004).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000800000003).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000800000004).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000100000005).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000100000006).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000300000005).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000300000006).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000400000005).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000400000006).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000500000005).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000500000006).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000600000005).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000600000006).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000700000005).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000700000006).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000800000005).
+08-Feb-22 3:32:54 PM : Inserting entity with GID (0000000800000006).
+08-Feb-22 3:32:54 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 3:32:54 PM : Endpoints:
+08-Feb-22 3:32:54 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 3:32:54 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 3:32:54 PM : Trace level: Info
+08-Feb-22 3:32:54 PM : The Network Model Service is started.
+08-Feb-22 3:32:54 PM : Press <Enter> to stop the service.
+08-Feb-22 3:33:09 PM : Applying  delta to network model.
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000100000007).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000100000008).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000300000007).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000300000008).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000400000007).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000400000008).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000500000007).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000500000008).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000600000007).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000600000008).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000700000007).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000700000008).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000800000007).
+08-Feb-22 3:33:09 PM : Inserting entity with GID (0000000800000008).
+08-Feb-22 3:33:09 PM : Applying delta to network model successfully finished.
+08-Feb-22 3:49:12 PM : Applying  delta to network model.
+08-Feb-22 3:49:12 PM : Inserting entity with GID (0000000100000009).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (000000010000000a).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (0000000300000009).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (000000030000000a).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (0000000400000009).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (000000040000000a).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (0000000500000009).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (000000050000000a).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (0000000600000009).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (000000060000000a).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (0000000700000009).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (000000070000000a).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (0000000800000009).
+08-Feb-22 3:49:12 PM : Inserting entity with GID (000000080000000a).
+08-Feb-22 3:49:12 PM : Applying delta to network model successfully finished.
+08-Feb-22 3:53:50 PM : Starting Network Model Serivice...
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000800000001).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000800000002).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000100000003).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000100000004).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000300000003).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000300000004).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000400000003).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000400000004).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000500000003).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000500000004).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000600000003).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000600000004).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000700000003).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000700000004).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000800000003).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000800000004).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000100000005).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000100000006).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000300000005).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000300000006).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000400000005).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000400000006).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000500000005).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000500000006).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000600000005).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000600000006).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000700000005).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000700000006).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000800000005).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000800000006).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000100000007).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000100000008).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000300000007).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000300000008).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000400000007).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000400000008).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000500000007).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000500000008).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000600000007).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000600000008).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000700000007).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000700000008).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000800000007).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000800000008).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000100000009).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (000000010000000a).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000300000009).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (000000030000000a).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000400000009).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (000000040000000a).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000500000009).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (000000050000000a).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000600000009).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (000000060000000a).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000700000009).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (000000070000000a).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (0000000800000009).
+08-Feb-22 3:53:50 PM : Inserting entity with GID (000000080000000a).
+08-Feb-22 3:53:50 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 3:53:50 PM : Endpoints:
+08-Feb-22 3:53:50 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 3:53:50 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 3:53:50 PM : Trace level: Info
+08-Feb-22 3:53:50 PM : The Network Model Service is started.
+08-Feb-22 3:53:50 PM : Press <Enter> to stop the service.
+08-Feb-22 3:53:56 PM : Applying  delta to network model.
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000010000000b).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000010000000c).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000030000000b).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000030000000c).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000040000000b).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000040000000c).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000050000000b).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000050000000c).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000060000000b).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000060000000c).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000070000000b).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000070000000c).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000080000000b).
+08-Feb-22 3:53:56 PM : Inserting entity with GID (000000080000000c).
+08-Feb-22 3:53:56 PM : Applying delta to network model successfully finished.
+08-Feb-22 4:04:16 PM : Starting Network Model Serivice...
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000800000001).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000800000002).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000100000003).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000100000004).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000300000003).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000300000004).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000400000003).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000400000004).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000500000003).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000500000004).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000600000003).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000600000004).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000700000003).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000700000004).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000800000003).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000800000004).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000100000005).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000100000006).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000300000005).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000300000006).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000400000005).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000400000006).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000500000005).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000500000006).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000600000005).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000600000006).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000700000005).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000700000006).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000800000005).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000800000006).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000100000007).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000100000008).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000300000007).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000300000008).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000400000007).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000400000008).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000500000007).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000500000008).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000600000007).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000600000008).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000700000007).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000700000008).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000800000007).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000800000008).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000100000009).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000010000000a).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000300000009).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000030000000a).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000400000009).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000040000000a).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000500000009).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000050000000a).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000600000009).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000060000000a).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000700000009).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000070000000a).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (0000000800000009).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000080000000a).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000010000000b).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000010000000c).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000030000000b).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000030000000c).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000040000000b).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000040000000c).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000050000000b).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000050000000c).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000060000000b).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000060000000c).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000070000000b).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000070000000c).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000080000000b).
+08-Feb-22 4:04:16 PM : Inserting entity with GID (000000080000000c).
+08-Feb-22 4:04:16 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 4:04:16 PM : Endpoints:
+08-Feb-22 4:04:16 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 4:04:16 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 4:04:16 PM : Trace level: Info
+08-Feb-22 4:04:16 PM : The Network Model Service is started.
+08-Feb-22 4:04:16 PM : Press <Enter> to stop the service.
+08-Feb-22 4:05:02 PM : Starting Network Model Serivice...
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000800000001).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000800000002).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000100000003).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000100000004).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000300000003).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000300000004).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000400000003).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000400000004).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000500000003).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000500000004).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000600000003).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000600000004).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000700000003).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000700000004).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000800000003).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000800000004).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000100000005).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000100000006).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000300000005).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000300000006).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000400000005).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000400000006).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000500000005).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000500000006).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000600000005).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000600000006).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000700000005).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000700000006).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000800000005).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000800000006).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000100000007).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000100000008).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000300000007).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000300000008).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000400000007).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000400000008).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000500000007).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000500000008).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000600000007).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000600000008).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000700000007).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000700000008).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000800000007).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000800000008).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000100000009).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000010000000a).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000300000009).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000030000000a).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000400000009).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000040000000a).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000500000009).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000050000000a).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000600000009).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000060000000a).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000700000009).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000070000000a).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (0000000800000009).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000080000000a).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000010000000b).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000010000000c).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000030000000b).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000030000000c).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000040000000b).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000040000000c).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000050000000b).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000050000000c).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000060000000b).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000060000000c).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000070000000b).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000070000000c).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000080000000b).
+08-Feb-22 4:05:02 PM : Inserting entity with GID (000000080000000c).
+08-Feb-22 4:05:02 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 4:05:02 PM : Endpoints:
+08-Feb-22 4:05:02 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 4:05:02 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 4:05:02 PM : Trace level: Info
+08-Feb-22 4:05:02 PM : The Network Model Service is started.
+08-Feb-22 4:05:02 PM : Press <Enter> to stop the service.
+08-Feb-22 4:05:09 PM : Applying  delta to network model.
+08-Feb-22 4:05:09 PM : Inserting entity with GID (000000010000000d).
+08-Feb-22 4:05:09 PM : Inserting entity with GID (000000030000000d).
+08-Feb-22 4:05:09 PM : Inserting entity with GID (000000040000000d).
+08-Feb-22 4:05:09 PM : Inserting entity with GID (000000050000000d).
+08-Feb-22 4:05:09 PM : Inserting entity with GID (000000060000000d).
+08-Feb-22 4:05:09 PM : Inserting entity with GID (000000070000000d).
+08-Feb-22 4:05:09 PM : Inserting entity with GID (000000080000000d).
+08-Feb-22 4:05:09 PM : Applying delta to network model successfully finished.
+08-Feb-22 4:05:30 PM : Applying  delta to network model.
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000010000000e).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000010000000f).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000030000000e).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000030000000f).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000040000000e).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000040000000f).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000050000000e).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000050000000f).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000060000000e).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000060000000f).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000070000000e).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000070000000f).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000080000000e).
+08-Feb-22 4:05:30 PM : Inserting entity with GID (000000080000000f).
+08-Feb-22 4:05:30 PM : Applying delta to network model successfully finished.
+08-Feb-22 4:06:54 PM : Starting Network Model Serivice...
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000800000001).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000800000002).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000100000003).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000100000004).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000300000003).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000300000004).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000400000003).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000400000004).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000500000003).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000500000004).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000600000003).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000600000004).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000700000003).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000700000004).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000800000003).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000800000004).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000100000005).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000100000006).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000300000005).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000300000006).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000400000005).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000400000006).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000500000005).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000500000006).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000600000005).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000600000006).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000700000005).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000700000006).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000800000005).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000800000006).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000100000007).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000100000008).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000300000007).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000300000008).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000400000007).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000400000008).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000500000007).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000500000008).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000600000007).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000600000008).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000700000007).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000700000008).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000800000007).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000800000008).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000100000009).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000010000000a).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000300000009).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000030000000a).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000400000009).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000040000000a).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000500000009).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000050000000a).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000600000009).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000060000000a).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000700000009).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000070000000a).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (0000000800000009).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000080000000a).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000010000000b).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000010000000c).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000030000000b).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000030000000c).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000040000000b).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000040000000c).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000050000000b).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000050000000c).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000060000000b).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000060000000c).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000070000000b).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000070000000c).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000080000000b).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000080000000c).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000010000000d).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000030000000d).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000040000000d).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000050000000d).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000060000000d).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000070000000d).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000080000000d).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000010000000e).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000010000000f).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000030000000e).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000030000000f).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000040000000e).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000040000000f).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000050000000e).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000050000000f).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000060000000e).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000060000000f).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000070000000e).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000070000000f).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000080000000e).
+08-Feb-22 4:06:54 PM : Inserting entity with GID (000000080000000f).
+08-Feb-22 4:06:54 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 4:06:54 PM : Endpoints:
+08-Feb-22 4:06:54 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 4:06:54 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 4:06:54 PM : Trace level: Info
+08-Feb-22 4:06:54 PM : The Network Model Service is started.
+08-Feb-22 4:06:54 PM : Press <Enter> to stop the service.
+08-Feb-22 4:07:01 PM : Applying  delta to network model.
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000100000010).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000100000011).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000300000010).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000300000011).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000400000010).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000400000011).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000500000010).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000500000011).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000600000010).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000600000011).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000700000010).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000700000011).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000800000010).
+08-Feb-22 4:07:01 PM : Inserting entity with GID (0000000800000011).
+08-Feb-22 4:07:01 PM : Applying delta to network model successfully finished.
+08-Feb-22 4:12:03 PM : Starting Network Model Serivice...
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000800000001).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000800000002).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000100000003).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000100000004).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000300000003).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000300000004).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000400000003).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000400000004).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000500000003).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000500000004).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000600000003).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000600000004).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000700000003).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000700000004).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000800000003).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000800000004).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000100000005).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000100000006).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000300000005).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000300000006).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000400000005).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000400000006).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000500000005).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000500000006).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000600000005).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000600000006).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000700000005).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000700000006).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000800000005).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000800000006).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000100000007).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000100000008).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000300000007).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000300000008).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000400000007).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000400000008).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000500000007).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000500000008).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000600000007).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000600000008).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000700000007).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000700000008).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000800000007).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000800000008).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000100000009).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000010000000a).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000300000009).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000030000000a).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000400000009).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000040000000a).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000500000009).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000050000000a).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000600000009).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000060000000a).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000700000009).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000070000000a).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000800000009).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000080000000a).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000010000000b).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000010000000c).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000030000000b).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000030000000c).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000040000000b).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000040000000c).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000050000000b).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000050000000c).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000060000000b).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000060000000c).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000070000000b).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000070000000c).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000080000000b).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000080000000c).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000010000000d).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000030000000d).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000040000000d).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000050000000d).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000060000000d).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000070000000d).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000080000000d).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000010000000e).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000010000000f).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000030000000e).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000030000000f).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000040000000e).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000040000000f).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000050000000e).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000050000000f).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000060000000e).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000060000000f).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000070000000e).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000070000000f).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000080000000e).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (000000080000000f).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000100000010).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000100000011).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000300000010).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000300000011).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000400000010).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000400000011).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000500000010).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000500000011).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000600000010).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000600000011).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000700000010).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000700000011).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000800000010).
+08-Feb-22 4:12:03 PM : Inserting entity with GID (0000000800000011).
+08-Feb-22 4:12:03 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 4:12:03 PM : Endpoints:
+08-Feb-22 4:12:03 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 4:12:03 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 4:12:03 PM : Trace level: Info
+08-Feb-22 4:12:03 PM : The Network Model Service is started.
+08-Feb-22 4:12:03 PM : Press <Enter> to stop the service.
+08-Feb-22 4:12:11 PM : Applying  delta to network model.
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000100000012).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000100000013).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000300000012).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000300000013).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000400000012).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000400000013).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000500000012).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000500000013).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000600000012).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000600000013).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000700000012).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000700000013).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000800000012).
+08-Feb-22 4:12:11 PM : Inserting entity with GID (0000000800000013).
+08-Feb-22 4:12:11 PM : Applying delta to network model successfully finished.
+08-Feb-22 4:24:18 PM : Starting Network Model Serivice...
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000001).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000002).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000003).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000004).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000003).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000004).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000003).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000004).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000003).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000004).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000003).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000004).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000003).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000004).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000003).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000004).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000005).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000006).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000005).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000006).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000005).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000006).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000005).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000006).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000005).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000006).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000005).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000006).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000005).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000006).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000007).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000008).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000007).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000008).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000007).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000008).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000007).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000008).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000007).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000008).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000007).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000008).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000007).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000008).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000009).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000010000000a).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000009).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000030000000a).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000009).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000040000000a).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000009).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000050000000a).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000009).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000060000000a).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000009).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000070000000a).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000009).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000080000000a).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000010000000b).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000010000000c).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000030000000b).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000030000000c).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000040000000b).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000040000000c).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000050000000b).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000050000000c).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000060000000b).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000060000000c).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000070000000b).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000070000000c).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000080000000b).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000080000000c).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000010000000d).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000030000000d).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000040000000d).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000050000000d).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000060000000d).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000070000000d).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000080000000d).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000010000000e).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000010000000f).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000030000000e).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000030000000f).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000040000000e).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000040000000f).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000050000000e).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000050000000f).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000060000000e).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000060000000f).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000070000000e).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000070000000f).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000080000000e).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (000000080000000f).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000010).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000011).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000010).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000011).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000010).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000011).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000010).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000011).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000010).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000011).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000010).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000011).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000010).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000011).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000012).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000100000013).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000012).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000300000013).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000012).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000400000013).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000012).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000500000013).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000012).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000600000013).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000012).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000700000013).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000012).
+08-Feb-22 4:24:18 PM : Inserting entity with GID (0000000800000013).
+08-Feb-22 4:24:18 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 4:24:18 PM : Endpoints:
+08-Feb-22 4:24:18 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 4:24:18 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 4:24:18 PM : Trace level: Info
+08-Feb-22 4:24:18 PM : The Network Model Service is started.
+08-Feb-22 4:24:18 PM : Press <Enter> to stop the service.
+08-Feb-22 4:24:28 PM : Applying  delta to network model.
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000100000014).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000100000015).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000300000014).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000300000015).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000400000014).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000400000015).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000500000014).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000500000015).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000600000014).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000600000015).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000700000014).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000700000015).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000800000014).
+08-Feb-22 4:24:28 PM : Inserting entity with GID (0000000800000015).
+08-Feb-22 4:24:28 PM : Applying delta to network model successfully finished.
+08-Feb-22 4:25:42 PM : Starting Network Model Serivice...
+08-Feb-22 4:25:42 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 4:25:42 PM : Endpoints:
+08-Feb-22 4:25:42 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 4:25:42 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 4:25:42 PM : Trace level: Info
+08-Feb-22 4:25:42 PM : The Network Model Service is started.
+08-Feb-22 4:25:42 PM : Press <Enter> to stop the service.
+08-Feb-22 4:25:49 PM : Applying  delta to network model.
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000800000001).
+08-Feb-22 4:25:49 PM : Inserting entity with GID (0000000800000002).
+08-Feb-22 4:25:49 PM : Applying delta to network model successfully finished.
+08-Feb-22 4:26:58 PM : Starting Network Model Serivice...
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000800000001).
+08-Feb-22 4:26:58 PM : Inserting entity with GID (0000000800000002).
+08-Feb-22 4:26:58 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 4:26:58 PM : Endpoints:
+08-Feb-22 4:26:58 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 4:26:58 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 4:26:58 PM : Trace level: Info
+08-Feb-22 4:26:58 PM : The Network Model Service is started.
+08-Feb-22 4:26:58 PM : Press <Enter> to stop the service.
+08-Feb-22 6:54:30 PM : Starting Network Model Serivice...
+08-Feb-22 6:54:30 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 6:54:30 PM : Endpoints:
+08-Feb-22 6:54:30 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 6:54:30 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 6:54:30 PM : Trace level: Info
+08-Feb-22 6:54:30 PM : The Network Model Service is started.
+08-Feb-22 6:54:30 PM : Press <Enter> to stop the service.
+08-Feb-22 6:54:39 PM : Applying  delta to network model.
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000200000001).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000200000002).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 6:54:39 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 6:54:39 PM : Applying delta to network model successfully finished.
+08-Feb-22 6:54:48 PM : Starting Network Model Serivice...
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000200000001).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000200000002).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 6:54:48 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 6:54:48 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 6:54:48 PM : Endpoints:
+08-Feb-22 6:54:48 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 6:54:48 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 6:54:48 PM : Trace level: Info
+08-Feb-22 6:54:48 PM : The Network Model Service is started.
+08-Feb-22 6:54:48 PM : Press <Enter> to stop the service.
+08-Feb-22 9:29:01 PM : Starting Network Model Serivice...
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000100000001).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000100000002).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000200000001).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000200000002).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000300000001).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000300000002).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000400000001).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000400000002).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000500000001).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000500000002).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000600000001).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000600000002).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000700000001).
+08-Feb-22 9:29:01 PM : Inserting entity with GID (0000000700000002).
+08-Feb-22 9:29:01 PM : The WCF service GenericDataAccess is ready.
+08-Feb-22 9:29:01 PM : Endpoints:
+08-Feb-22 9:29:01 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+08-Feb-22 9:29:01 PM : Connection string: ../NetworkModelData.data
+08-Feb-22 9:29:01 PM : Trace level: Info
+08-Feb-22 9:29:01 PM : The Network Model Service is started.
+08-Feb-22 9:29:01 PM : Press <Enter> to stop the service.
+09-Feb-22 1:37:33 PM : Starting Network Model Serivice...
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000100000001).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000100000002).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000200000001).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000200000002).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000300000001).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000300000002).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000400000001).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000400000002).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000500000001).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000500000002).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000600000001).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000600000002).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000700000001).
+09-Feb-22 1:37:33 PM : Inserting entity with GID (0000000700000002).
+09-Feb-22 1:37:33 PM : The WCF service GenericDataAccess is ready.
+09-Feb-22 1:37:33 PM : Endpoints:
+09-Feb-22 1:37:33 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Feb-22 1:37:33 PM : Connection string: ../NetworkModelData.data
+09-Feb-22 1:37:33 PM : Trace level: Info
+09-Feb-22 1:37:33 PM : The Network Model Service is started.
+09-Feb-22 1:37:33 PM : Press <Enter> to stop the service.
+09-Feb-22 1:37:49 PM : Applying  delta to network model.
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000100000003).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000100000004).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000200000003).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000200000004).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000300000003).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000300000004).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000400000003).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000400000004).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000500000003).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000500000004).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000600000003).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000600000004).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000700000003).
+09-Feb-22 1:37:49 PM : Inserting entity with GID (0000000700000004).
+09-Feb-22 1:37:49 PM : Applying delta to network model successfully finished.
+09-Feb-22 2:47:26 PM : Starting Network Model Serivice...
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000100000001).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000100000002).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000200000001).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000200000002).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000300000001).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000300000002).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000400000001).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000400000002).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000500000001).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000500000002).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000600000001).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000600000002).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000700000001).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000700000002).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000100000003).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000100000004).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000200000003).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000200000004).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000300000003).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000300000004).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000400000003).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000400000004).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000500000003).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000500000004).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000600000003).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000600000004).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000700000003).
+09-Feb-22 2:47:26 PM : Inserting entity with GID (0000000700000004).
+09-Feb-22 2:47:27 PM : The WCF service GenericDataAccess is ready.
+09-Feb-22 2:47:27 PM : Endpoints:
+09-Feb-22 2:47:27 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Feb-22 2:47:27 PM : Connection string: ../NetworkModelData.data
+09-Feb-22 2:47:27 PM : Trace level: Info
+09-Feb-22 2:47:27 PM : The Network Model Service is started.
+09-Feb-22 2:47:27 PM : Press <Enter> to stop the service.
+09-Feb-22 3:14:24 PM : Starting Network Model Serivice...
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000100000001).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000100000002).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000200000001).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000200000002).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000300000001).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000300000002).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000400000001).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000400000002).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000500000001).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000500000002).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000600000001).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000600000002).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000700000001).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000700000002).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000100000003).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000100000004).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000200000003).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000200000004).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000300000003).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000300000004).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000400000003).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000400000004).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000500000003).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000500000004).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000600000003).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000600000004).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000700000003).
+09-Feb-22 3:14:24 PM : Inserting entity with GID (0000000700000004).
+09-Feb-22 3:14:24 PM : The WCF service GenericDataAccess is ready.
+09-Feb-22 3:14:24 PM : Endpoints:
+09-Feb-22 3:14:24 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Feb-22 3:14:24 PM : Connection string: ../NetworkModelData.data
+09-Feb-22 3:14:24 PM : Trace level: Info
+09-Feb-22 3:14:24 PM : The Network Model Service is started.
+09-Feb-22 3:14:24 PM : Press <Enter> to stop the service.
+09-Feb-22 5:11:38 PM : Starting Network Model Serivice...
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000100000001).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000100000002).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000200000001).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000200000002).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000300000001).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000300000002).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000400000001).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000400000002).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000500000001).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000500000002).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000600000001).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000600000002).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000700000001).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000700000002).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000100000003).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000100000004).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000200000003).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000200000004).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000300000003).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000300000004).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000400000003).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000400000004).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000500000003).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000500000004).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000600000003).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000600000004).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000700000003).
+09-Feb-22 5:11:38 PM : Inserting entity with GID (0000000700000004).
+09-Feb-22 5:11:38 PM : The WCF service GenericDataAccess is ready.
+09-Feb-22 5:11:38 PM : Endpoints:
+09-Feb-22 5:11:38 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Feb-22 5:11:38 PM : Connection string: ../NetworkModelData.data
+09-Feb-22 5:11:38 PM : Trace level: Info
+09-Feb-22 5:11:38 PM : The Network Model Service is started.
+09-Feb-22 5:11:38 PM : Press <Enter> to stop the service.
+09-Feb-22 5:12:12 PM : Applying  delta to network model.
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000100000005).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000100000006).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000200000005).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000200000006).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000300000005).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000300000006).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000400000005).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000400000006).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000500000005).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000500000006).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000600000005).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000600000006).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000700000005).
+09-Feb-22 5:12:12 PM : Inserting entity with GID (0000000700000006).
+09-Feb-22 5:12:12 PM : Applying delta to network model successfully finished.
+09-Feb-22 5:34:34 PM : Starting Network Model Serivice...
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000100000001).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000100000002).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000200000001).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000200000002).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000300000001).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000300000002).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000400000001).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000400000002).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000500000001).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000500000002).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000600000001).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000600000002).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000700000001).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000700000002).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000100000003).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000100000004).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000200000003).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000200000004).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000300000003).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000300000004).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000400000003).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000400000004).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000500000003).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000500000004).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000600000003).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000600000004).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000700000003).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000700000004).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000100000005).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000100000006).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000200000005).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000200000006).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000300000005).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000300000006).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000400000005).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000400000006).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000500000005).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000500000006).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000600000005).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000600000006).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000700000005).
+09-Feb-22 5:34:34 PM : Inserting entity with GID (0000000700000006).
+09-Feb-22 5:34:34 PM : The WCF service GenericDataAccess is ready.
+09-Feb-22 5:34:34 PM : Endpoints:
+09-Feb-22 5:34:34 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Feb-22 5:34:34 PM : Connection string: ../NetworkModelData.data
+09-Feb-22 5:34:34 PM : Trace level: Info
+09-Feb-22 5:34:34 PM : The Network Model Service is started.
+09-Feb-22 5:34:34 PM : Press <Enter> to stop the service.
+09-Feb-22 5:46:03 PM : Starting Network Model Serivice...
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000100000001).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000100000002).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000200000001).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000200000002).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000300000001).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000300000002).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000400000001).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000400000002).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000500000001).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000500000002).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000600000001).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000600000002).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000700000001).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000700000002).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000100000003).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000100000004).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000200000003).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000200000004).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000300000003).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000300000004).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000400000003).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000400000004).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000500000003).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000500000004).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000600000003).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000600000004).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000700000003).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000700000004).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000100000005).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000100000006).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000200000005).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000200000006).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000300000005).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000300000006).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000400000005).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000400000006).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000500000005).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000500000006).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000600000005).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000600000006).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000700000005).
+09-Feb-22 5:46:04 PM : Inserting entity with GID (0000000700000006).
+09-Feb-22 5:46:04 PM : The WCF service GenericDataAccess is ready.
+09-Feb-22 5:46:04 PM : Endpoints:
+09-Feb-22 5:46:04 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Feb-22 5:46:04 PM : Connection string: ../NetworkModelData.data
+09-Feb-22 5:46:04 PM : Trace level: Info
+09-Feb-22 5:46:04 PM : The Network Model Service is started.
+09-Feb-22 5:46:04 PM : Press <Enter> to stop the service.
+09-Feb-22 5:48:35 PM : Starting Network Model Serivice...
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000100000001).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000100000002).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000200000001).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000200000002).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000300000001).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000300000002).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000400000001).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000400000002).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000500000001).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000500000002).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000600000001).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000600000002).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000700000001).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000700000002).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000100000003).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000100000004).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000200000003).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000200000004).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000300000003).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000300000004).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000400000003).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000400000004).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000500000003).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000500000004).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000600000003).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000600000004).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000700000003).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000700000004).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000100000005).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000100000006).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000200000005).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000200000006).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000300000005).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000300000006).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000400000005).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000400000006).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000500000005).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000500000006).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000600000005).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000600000006).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000700000005).
+09-Feb-22 5:48:35 PM : Inserting entity with GID (0000000700000006).
+09-Feb-22 5:48:36 PM : The WCF service GenericDataAccess is ready.
+09-Feb-22 5:48:36 PM : Endpoints:
+09-Feb-22 5:48:36 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Feb-22 5:48:36 PM : Connection string: ../NetworkModelData.data
+09-Feb-22 5:48:36 PM : Trace level: Info
+09-Feb-22 5:48:36 PM : The Network Model Service is started.
+09-Feb-22 5:48:36 PM : Press <Enter> to stop the service.
+09-Feb-22 5:52:32 PM : Starting Network Model Serivice...
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000100000001).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000100000002).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000200000001).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000200000002).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000300000001).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000300000002).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000400000001).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000400000002).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000500000001).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000500000002).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000600000001).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000600000002).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000700000001).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000700000002).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000100000003).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000100000004).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000200000003).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000200000004).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000300000003).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000300000004).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000400000003).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000400000004).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000500000003).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000500000004).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000600000003).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000600000004).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000700000003).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000700000004).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000100000005).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000100000006).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000200000005).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000200000006).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000300000005).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000300000006).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000400000005).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000400000006).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000500000005).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000500000006).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000600000005).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000600000006).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000700000005).
+09-Feb-22 5:52:32 PM : Inserting entity with GID (0000000700000006).
+09-Feb-22 5:52:32 PM : The WCF service GenericDataAccess is ready.
+09-Feb-22 5:52:32 PM : Endpoints:
+09-Feb-22 5:52:32 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+09-Feb-22 5:52:32 PM : Connection string: ../NetworkModelData.data
+09-Feb-22 5:52:32 PM : Trace level: Info
+09-Feb-22 5:52:32 PM : The Network Model Service is started.
+09-Feb-22 5:52:32 PM : Press <Enter> to stop the service.
